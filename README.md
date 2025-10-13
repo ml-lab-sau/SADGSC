@@ -32,5 +32,5 @@ lambda1 = 1; lambda2 = 1; lambda3 = 100;
 lambda4 = 10; lambda5 = 1; lambda6 = 0.01;
 
 % Run main script
-run('main_biointerprete.m')
+run('main_SADGSC.m')
 
